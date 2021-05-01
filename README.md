@@ -33,5 +33,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Note
 
 Detailed vew on Router concept when it comes to load various pages of content.
-
 Deployed on [Netlify](https://www.netlify.com). via Github Repository.
