@@ -11,7 +11,7 @@ import { AboutUsComponent } from './about-us/about-us.component';
 import { ServicesComponent } from './services/services.component';
 import { WorksComponent } from './works/works.component';
 import { ContactComponent } from './contact/contact.component';
-// import { WorksSingleComponent } from './works-single/works-single.component';
+import { ExploreComponent } from './explore/explore.component';
 
 
 
@@ -25,7 +25,7 @@ import { ContactComponent } from './contact/contact.component';
     ServicesComponent,
     WorksComponent,
     ContactComponent,
-    // WorksSingleComponent
+    ExploreComponent,
   ],
   imports: [
     BrowserModule,
