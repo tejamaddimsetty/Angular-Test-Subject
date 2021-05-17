@@ -11,7 +11,7 @@ import { ExploreComponent } from './explore/explore.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
-  { path: 'about-us', component: AboutUsComponent },
+  { path: 'about-me', component: AboutUsComponent },
   { path: 'services', component: ServicesComponent },
   { path: 'works', component: WorksComponent },
   { path: 'contact', component: ContactComponent },
