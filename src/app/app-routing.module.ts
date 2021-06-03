@@ -12,6 +12,9 @@ import { WaveComponent } from './wave/wave.component';
 import { MedicComponent } from './medic/medic.component';
 import { DatasoftComponent } from './datasoft/datasoft.component';
 import { MinitechComponent } from './minitech/minitech.component';
+import { WhiterComponent } from './whiter/whiter.component';
+import { HyggeComponent } from './hygge/hygge.component';
+import { RealestateComponent } from './realestate/realestate.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -24,7 +27,11 @@ const routes: Routes = [
   { path: 'wave', component: WaveComponent},
   { path: 'medic', component: MedicComponent},
   { path: 'datasoft', component: DatasoftComponent},
-  { path: 'minitech', component: MinitechComponent}
+  { path: 'minitech', component: MinitechComponent},
+  { path: 'whiter', component: WhiterComponent},
+  { path: 'hygge', component: HyggeComponent},
+  { path: 'realestate', component: RealestateComponent}
+  
 ];
 
 @NgModule({

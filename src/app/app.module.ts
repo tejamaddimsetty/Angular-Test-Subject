@@ -17,6 +17,9 @@ import { WaveComponent } from './wave/wave.component';
 import { MinitechComponent } from './minitech/minitech.component';
 import { DatasoftComponent } from './datasoft/datasoft.component';
 import { MedicComponent } from './medic/medic.component';
+import { HyggeComponent } from './hygge/hygge.component';
+import { WhiterComponent } from './whiter/whiter.component';
+import { RealestateComponent } from './realestate/realestate.component';
 
 
 
@@ -36,6 +39,9 @@ import { MedicComponent } from './medic/medic.component';
     MinitechComponent,
     DatasoftComponent,
     MedicComponent,
+    HyggeComponent,
+    WhiterComponent,
+    RealestateComponent,
   ],
   imports: [
     BrowserModule,
