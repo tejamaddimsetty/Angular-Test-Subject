@@ -12,6 +12,11 @@ import { ServicesComponent } from './services/services.component';
 import { WorksComponent } from './works/works.component';
 import { ContactComponent } from './contact/contact.component';
 import { ExploreComponent } from './explore/explore.component';
+import { MedcityComponent } from './medcity/medcity.component';
+import { WaveComponent } from './wave/wave.component';
+import { MinitechComponent } from './minitech/minitech.component';
+import { DatasoftComponent } from './datasoft/datasoft.component';
+import { MedicComponent } from './medic/medic.component';
 
 
 
@@ -26,6 +31,11 @@ import { ExploreComponent } from './explore/explore.component';
     WorksComponent,
     ContactComponent,
     ExploreComponent,
+    MedcityComponent,
+    WaveComponent,
+    MinitechComponent,
+    DatasoftComponent,
+    MedicComponent,
   ],
   imports: [
     BrowserModule,
