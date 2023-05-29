@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Reference 
 
-Website demo https://lucid-shannon-c64075.netlify.app/
+Website demo [Click the Link](https://tej-portfolio-site.netlify.app)
 
 ## Development server
 
