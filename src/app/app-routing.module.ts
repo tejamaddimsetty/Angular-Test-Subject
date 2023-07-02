@@ -15,6 +15,7 @@ import { MinitechComponent } from './minitech/minitech.component';
 import { WhiterComponent } from './whiter/whiter.component';
 import { HyggeComponent } from './hygge/hygge.component';
 import { RealestateComponent } from './realestate/realestate.component';
+import { SneakerComponent } from './Sneaker/sneaker.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -31,6 +32,7 @@ const routes: Routes = [
   { path: 'whiter', component: WhiterComponent},
   { path: 'hygge', component: HyggeComponent},
   { path: 'realestate', component: RealestateComponent}
+  { path: 'sneaker', component: SneakerComponent}
   
 ];
 

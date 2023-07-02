@@ -20,6 +20,7 @@ import { MedicComponent } from './medic/medic.component';
 import { HyggeComponent } from './hygge/hygge.component';
 import { WhiterComponent } from './whiter/whiter.component';
 import { RealestateComponent } from './realestate/realestate.component';
+import { SneakerComponent } from './Sneaker/sneaker.component';
 
 
 
@@ -42,6 +43,7 @@ import { RealestateComponent } from './realestate/realestate.component';
     HyggeComponent,
     WhiterComponent,
     RealestateComponent,
+    SneakerComponent,
   ],
   imports: [
     BrowserModule,
