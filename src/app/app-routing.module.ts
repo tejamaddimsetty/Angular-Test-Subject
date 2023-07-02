@@ -16,6 +16,8 @@ import { WhiterComponent } from './whiter/whiter.component';
 import { HyggeComponent } from './hygge/hygge.component';
 import { RealestateComponent } from './realestate/realestate.component';
 import { SneakerComponent } from './Sneaker/sneaker.component';
+import { ShoplyComponent } from './shoply/shoply.component';
+import { CuppacoComponent } from './cuppaco/cuppaco.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -32,7 +34,9 @@ const routes: Routes = [
   { path: 'whiter', component: WhiterComponent},
   { path: 'hygge', component: HyggeComponent},
   { path: 'realestate', component: RealestateComponent},
-  { path: 'sneaker', component: SneakerComponent}
+  { path: 'sneaker', component: SneakerComponent},
+  { path: 'shopl', component: ShoplComponent},
+  { path: 'cuppaco', component: CuppacoComponent}
   
 ];
 
