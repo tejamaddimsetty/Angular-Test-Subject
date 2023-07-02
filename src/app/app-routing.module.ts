@@ -31,7 +31,7 @@ const routes: Routes = [
   { path: 'minitech', component: MinitechComponent},
   { path: 'whiter', component: WhiterComponent},
   { path: 'hygge', component: HyggeComponent},
-  { path: 'realestate', component: RealestateComponent}
+  { path: 'realestate', component: RealestateComponent},
   { path: 'sneaker', component: SneakerComponent}
   
 ];
