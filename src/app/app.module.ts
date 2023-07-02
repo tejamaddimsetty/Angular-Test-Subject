@@ -27,6 +27,7 @@ import { ShoplyComponent } from './shoply/shoply.component';
 import { FasyunComponent } from './fasyun/fasyun.component';
 import { JobappComponent } from './jobapp/jobapp.component';
 import { OverpayComponent } from './overpay/overpay.component';
+import { ParadoxComponent } from './paradox/paradox.component';
 
 
 
@@ -55,7 +56,8 @@ import { OverpayComponent } from './overpay/overpay.component';
     CoinstarComponent,
     FasyunComponent,
     JobappComponent,
-    OverpayComponent
+    OverpayComponent,
+    ParadoxComponent
   ],
   imports: [
     BrowserModule,

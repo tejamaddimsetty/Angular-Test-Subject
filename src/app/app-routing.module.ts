@@ -22,6 +22,7 @@ import { CoinstarComponent } from './coinstar/coinstar.component';
 import { FasyunComponent } from './fasyun/fasyun.component';
 import { JobappComponent } from './jobapp/jobapp.component';
 import { OverpayComponent } from './overpay/overpay.component';
+import { ParadoxComponent } from './paradox/paradox.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -44,7 +45,8 @@ const routes: Routes = [
   { path: 'coinstar', component: CoinstarComponent},
   { path: 'fasyun', component: FasyunComponent},
   { path: 'jobapp', component: JobappComponent},
-  { path: 'overpay', component: OverpayComponent}
+  { path: 'overpay', component: OverpayComponent},
+  { path: 'paradox', component: ParadoxComponent}
   
 ];
 
