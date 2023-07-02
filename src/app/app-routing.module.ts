@@ -20,6 +20,7 @@ import { ShoplyComponent } from './shoply/shoply.component';
 import { CuppacoComponent } from './cuppaco/cuppaco.component';
 import { CoinstarComponent } from './coinstar/coinstar.component';
 import { FasyunComponent } from './fasyun/fasyun.component';
+import { JobappComponent } from './jobapp/jobapp.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -40,7 +41,8 @@ const routes: Routes = [
   { path: 'shoply', component: ShoplyComponent},
   { path: 'cuppaco', component: CuppacoComponent},
   { path: 'coinstar', component: CoinstarComponent},
-  { path: 'fasyun', component: FasyunComponent}
+  { path: 'fasyun', component: FasyunComponent},
+  { path: 'jobapp', component: JobappComponent}
   
 ];
 
