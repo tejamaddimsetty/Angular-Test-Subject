@@ -19,6 +19,7 @@ import { SneakerComponent } from './Sneaker/sneaker.component';
 import { ShoplyComponent } from './shoply/shoply.component';
 import { CuppacoComponent } from './cuppaco/cuppaco.component';
 import { CoinstarComponent } from './coinstar/coinstar.component';
+import { FasyunComponent } from './fasyun/fasyun.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -38,7 +39,8 @@ const routes: Routes = [
   { path: 'sneaker', component: SneakerComponent},
   { path: 'shoply', component: ShoplyComponent},
   { path: 'cuppaco', component: CuppacoComponent},
-  { path: 'coinstar', component: CoinstarComponent}
+  { path: 'coinstar', component: CoinstarComponent},
+  { path: 'fasyun', component: FasyunComponent}
   
 ];
 

@@ -24,6 +24,7 @@ import { SneakerComponent } from './Sneaker/sneaker.component';
 import { CoinstarComponent } from './coinstar/coinstar.component';
 import { CuppacoComponent } from './cuppaco/cuppaco.component';
 import { ShoplyComponent } from './shoply/shoply.component';
+import { FasyunComponent } from './fasyun/fasyun.component';
 
 
 
@@ -49,7 +50,8 @@ import { ShoplyComponent } from './shoply/shoply.component';
     SneakerComponent,
     CuppacoComponent,
     ShoplyComponent,
-    CoinstarComponent
+    CoinstarComponent,
+    FasyunComponent
   ],
   imports: [
     BrowserModule,
