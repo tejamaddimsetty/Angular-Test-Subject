@@ -21,6 +21,9 @@ import { HyggeComponent } from './hygge/hygge.component';
 import { WhiterComponent } from './whiter/whiter.component';
 import { RealestateComponent } from './realestate/realestate.component';
 import { SneakerComponent } from './Sneaker/sneaker.component';
+import { CoinstarComponent } from './coinstar/coinstar.component';
+import { CuppacoComponent } from './cuppaco/cuppaco.component';
+import { ShoplyComponent } from './shoply/shoply.component';
 
 
 
@@ -44,6 +47,9 @@ import { SneakerComponent } from './Sneaker/sneaker.component';
     WhiterComponent,
     RealestateComponent,
     SneakerComponent,
+    CuppacoComponent,
+    ShoplyComponent,
+    CoinstarComponent
   ],
   imports: [
     BrowserModule,

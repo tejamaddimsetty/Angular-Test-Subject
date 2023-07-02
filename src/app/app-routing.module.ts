@@ -18,6 +18,7 @@ import { RealestateComponent } from './realestate/realestate.component';
 import { SneakerComponent } from './Sneaker/sneaker.component';
 import { ShoplyComponent } from './shoply/shoply.component';
 import { CuppacoComponent } from './cuppaco/cuppaco.component';
+import { CoinstarComponent } from './coinstar/coinstar.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -36,7 +37,8 @@ const routes: Routes = [
   { path: 'realestate', component: RealestateComponent},
   { path: 'sneaker', component: SneakerComponent},
   { path: 'shoply', component: ShoplyComponent},
-  { path: 'cuppaco', component: CuppacoComponent}
+  { path: 'cuppaco', component: CuppacoComponent},
+  { path: 'coinstar', component: CoinstarComponent}
   
 ];
 
