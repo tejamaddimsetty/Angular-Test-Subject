@@ -21,6 +21,7 @@ import { CuppacoComponent } from './cuppaco/cuppaco.component';
 import { CoinstarComponent } from './coinstar/coinstar.component';
 import { FasyunComponent } from './fasyun/fasyun.component';
 import { JobappComponent } from './jobapp/jobapp.component';
+import { OverpayComponent } from './overpay/overpay.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -42,7 +43,8 @@ const routes: Routes = [
   { path: 'cuppaco', component: CuppacoComponent},
   { path: 'coinstar', component: CoinstarComponent},
   { path: 'fasyun', component: FasyunComponent},
-  { path: 'jobapp', component: JobappComponent}
+  { path: 'jobapp', component: JobappComponent},
+  { path: 'overpay', component: OverpayComponent}
   
 ];
 
